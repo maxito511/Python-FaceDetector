@@ -2,10 +2,6 @@
 
 _Es un detector de caras, el cual permite detectar caras tanto de imagenes como de videos_
 
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 
 _Es necesario:_
